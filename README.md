@@ -1,5 +1,5 @@
 # Load-Balancer
-// Copyright Stan Andreea-Cristina 313CA
+# Copyright Stan Andreea-Cristina 313CA
 
 ~load_balancer.c
     -shift_function_left/right/servers - Functii utilizate pentru a mentine
